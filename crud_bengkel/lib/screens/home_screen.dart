@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/sparepart_providers.dart';
-import 'add_edit_sparepart_screen.dart';
+import 'form_crud_sparepart_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
