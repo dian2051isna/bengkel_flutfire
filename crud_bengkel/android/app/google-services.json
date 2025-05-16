@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071626570093",
+    "project_id": "pbm2051",
+    "storage_bucket": "pbm2051.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071626570093:android:3b563c2c9a91f92993b264",
+        "android_client_info": {
+          "package_name": "com.example.crud_bengkel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlzJtvNFCbBelbSKRdEOZ3OLkHox8a9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071626570093:android:fe15508fd842879493b264",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPlzJtvNFCbBelbSKRdEOZ3OLkHox8a9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
